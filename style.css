@@ -1,21 +1,32 @@
+/* Student Name: Ophilia Fradarick */
+
 @charset "utf8";
 
 .table1{
-    background-color: rgb(240, 234, 227);
-    width:100%;
+    background-color: #f1f1eb;
+    width:80%;
     font-size: 30px;
     border-spacing: 20px;
     border-collapse: collapse;
+    margin-left:250px ;
 }
 
 .header{
-    background-color: rgba(173, 34, 34, 0.562);
-    color:white;
+    background-color: #8A4448;
+    color:#ffffff;
     text-align: center;
     font-weight: bold;
-    font-size: 1em;
+    font-size: 3em;
+    height: 100px;
 }
 
 .coloredBlock{
-    background-color: rgba(173, 34, 34, 0.562);
+    background-color: #8A4448
+}
+
+.table1 td{
+    width: 100px;
+    height: 200px;
+    border: 1px solid black;
+    vertical-align: top;
 }
