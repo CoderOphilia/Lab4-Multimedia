@@ -1,0 +1,21 @@
+@charset "utf8";
+
+.table1{
+    background-color: rgb(240, 234, 227);
+    width:100%;
+    font-size: 30px;
+    border-spacing: 20px;
+    border-collapse: collapse;
+}
+
+.header{
+    background-color: rgba(173, 34, 34, 0.562);
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.coloredBlock{
+    background-color: rgba(173, 34, 34, 0.562);
+}
