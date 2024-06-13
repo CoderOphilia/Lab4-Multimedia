@@ -4,11 +4,10 @@
 
 .table1{
     background-color: #f1f1eb;
-    width:80%;
+    width:100%;
     font-size: 30px;
     border-spacing: 20px;
     border-collapse: collapse;
-    margin-left:250px ;
 }
 
 .header{
